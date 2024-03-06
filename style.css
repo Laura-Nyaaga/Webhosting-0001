@@ -1,0 +1,91 @@
+#bodydiv{
+    background-color: white;
+}
+#navbar{
+     display: flex;
+     justify-content: space-evenly;
+}
+#press{
+     background-color: rgb(16, 16, 19); 
+     color: white;
+     border: solid 1px;
+     border-radius: 40px;
+     width: 10%;
+}
+#topT{
+     border: solid 1px;
+     border-color: rgb(66, 66, 68);
+     border-radius: 20px;
+     width: 25%;
+     color: rgb(74, 74, 82);
+     font-size: larger;
+}
+#myDiv{
+    display: flex;
+    justify-content: space-between;
+}
+#box{
+   background-color: rgb(16, 16, 17); 
+   color: white;
+   width: 55%;
+   border-radius: 20px;
+   padding: 15px;
+}
+#topic{
+    font-size: 500%;
+    color: rgb(34, 34, 39);
+}
+#photo{
+padding: 0px, 130px;
+}
+#words{
+  color: rgb(81, 81, 94);  
+}
+#Divsub{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    color: rgb(34, 34, 39);
+}
+.paragra{
+    color: rgb(81, 81, 94);  
+}
+#division{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+#pill{
+    background-color: rgb(245, 245, 95);
+    color: rgb(17, 16, 16);
+    border-radius: 15px;
+    width: 45%;
+    padding: 5px;
+}
+#web{
+    color: rgb(34, 34, 39);
+    font-size: 270%;
+}
+#man{
+  padding: auto; 
+}
+.onecolam{
+    display: flex;
+    justify-content: space-between;
+}
+.pictures{
+     border: solid 1px;
+     padding: 30px;
+     width: 370px;
+     height: 370px;
+     border-radius: 20px;
+     font-size: 150%;
+     text-align: center;
+}
+.top{
+    color: rgb(34, 34, 39); 
+}
+.state{
+    color: rgb(81, 81, 94);   
+}
